@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				38
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Talk",
+			"indices": [],
+			"name": "Jesse"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/walter",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "walter",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		102,
+		46
+	],
+	"camera_position": [
+		930,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
