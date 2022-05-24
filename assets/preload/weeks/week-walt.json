@@ -1,0 +1,32 @@
+{
+	"storyName": "Jesse, we need to rap",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "walt",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"cooking",
+			"walter",
+			[
+				46,
+				155,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Walter White"
+}
